@@ -1,3 +1,4 @@
 # MY-demo
-This is my Git Demo Repository 
-AUTHOR;tushar tiwari
+This is my Git Demo Repository.
+<br>
+AUTHOR-tushar tiwari
